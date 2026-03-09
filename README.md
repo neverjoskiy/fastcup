@@ -28,7 +28,7 @@
 
 ### Установка
 
-1. **Скачайте установщик** из [Releases](https://github.com/bioneverr/fastcup/releases)
+1. **Скачайте установщик** из [Releases](https://github.com/neverjoskiy/fastcup/releases)
 2. Запустите `FastCup Setup.exe`
 3. Следуйте инструкциям установщика
 
@@ -36,7 +36,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/bioneverr/fastcup.git
+git clone https://github.com/neverjoskiy/fastcup.git
 cd fastcup
 
 # Установка зависимостей
@@ -134,7 +134,7 @@ MIT License — см. файл [LICENSE](LICENSE) для деталей.
 | Контакт | Ссылка |
 |---------|--------|
 | **Telegram** | [@bioneverr](https://t.me/bioneverr) |
-| **GitHub** | [bioneverr](https://github.com/bioneverr) |
+| **GitHub** | [bioneverr](https://github.com/neverjoskiy) |
 
 ---
 
